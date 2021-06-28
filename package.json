@@ -1,0 +1,17 @@
+{
+  "name": "animationland",
+  "version": "1.0.0",
+  "description": "Juego dibujado y animado solo con css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Css",
+    "animaciones",
+    "animations",
+    "html"
+  ],
+  "author": "Antonio Espin",
+  "license": "ISC"
+}
